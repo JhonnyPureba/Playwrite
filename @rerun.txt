@@ -1,0 +1,8 @@
+src\test\features\agregarMascota.feature:13
+src\test\features\busquedaPropietario.feature:11
+src\test\features\editarPropietario.feature:13
+src\test\features\home.feature:11
+src\test\features\listadoPropietarios.feature:12
+src\test\features\propietarios.feature:3
+src\test\features\veterinarios.feature:10
+src\test\features\vistaError.feature:10
